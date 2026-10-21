@@ -30,7 +30,7 @@
 ```
 BOT_TOKEN="ВАШ ТОКЕН"
 ```
-Получить токен можно у [@BotFather](t.me/BotFather) в **Telegram** (с синей галочкой)
+Получить токен можно у [@BotFather](https://t.me/BotFather) в **Telegram** (с синей галочкой)
 
 **3)** Следующим шагом нам небоходимо установить зависимости, для этого выполним комманду `pip install -r requirements.txt`  в _терминале_ среды программирования (ctrl + ` (windows/mac)  для VS Code,  alt + f12 (windows) или option + f12 (mac)  для PyCharm).
 
