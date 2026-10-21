@@ -1,4 +1,9 @@
 # Асихронный эхо - бот #
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
+[![aiogram 3](https://img.shields.io/badge/aiogram-3.x-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://docs.aiogram.dev/)
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
 ## Автор: **Владимир**, начинающий _python_ - разработчик ##
 ### Ссылки на *другие* мои проекты: [ai reviever](https://github.com/vlheadcrush06/ai_reviever-v2-), [ETH - parser](https://github.com/vlheadcrush06/ETH-parser-bot)
 
@@ -33,4 +38,4 @@ BOT_TOKEN="ВАШ ТОКЕН"
 
 C этого момента наш бот работаем! пишите ему любое сообщение, и он ответит вам ровно тем, что вы написали.
 
-Приятного ревью).
+Приятного ревью =)
