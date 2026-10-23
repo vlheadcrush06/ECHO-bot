@@ -5,7 +5,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 ## Автор: **Владимир**, начинающий _python_ - разработчик ##
-### Ссылки на *другие* мои проекты: [ai reviever](https://github.com/vlheadcrush06/ai_reviever-v2-), [ETH - parser](https://github.com/vlheadcrush06/ETH-parser-bot)
+### Ссылки на *другие* мои проекты: [ai reviever](https://github.com/vlheadcrush06/ai_reviever-v2), [ETH - parser](https://github.com/vlheadcrush06/ETH-parser-bot)
 
 **Вопрос - для чего он нужен?**
 ОТВЕТ: ***Вы можете проверить:***
